@@ -1,0 +1,25 @@
+Cybersecurity Current Event Report
+
+
+Event 1: 2016 Election Interference
+
+Type of Attack: The 2016 election interference involved cyber manipulation and interference in the electoral process. Foreign actors, notably Russia, utilized various tactics such as disinformation campaigns, social media manipulation, and hacking to influence public opinion and undermine the integrity of the election.
+
+Discovery of Vulnerability: The vulnerability of the electoral process to cyber interference was gradually uncovered through investigations by various intelligence agencies, cybersecurity firms, and media outlets. Suspicious activities, data breaches, and hacking attempts targeting political organizations and individuals prompted further scrutiny.
+
+Exploitation of Vulnerability: Attackers exploited vulnerabilities in electoral infrastructure, social media platforms, and email systems. They used techniques like spear-phishing to gain access to sensitive information, disseminated fake news and propaganda to sway public opinion, and attempted to compromise voting systems.
+
+Security Measures for Prevention: Several security measures could have mitigated the impact of election interference. These include enhancing the cybersecurity of electoral systems, implementing multi-factor authentication to prevent unauthorized access, increasing transparency in political advertising on social media, and educating the public about recognizing and combating disinformation.
+
+
+Event 2: Broadvoice Data Breach
+
+Type of Attack: The Broadvoice data breach involved unauthorized access to sensitive information, likely through exploitation of vulnerabilities in the company's systems or applications.
+
+Discovery of Vulnerability: The breach might have been discovered through routine security audits, anomaly detection systems, or reports from users or third-party researchers.
+
+Exploitation of Vulnerability: Attackers exploited weaknesses in Broadvoice's security defenses, potentially through methods like SQL injection, phishing attacks, or exploiting unpatched software vulnerabilities. Once inside the network, they could access and exfiltrate sensitive data.
+
+Security Measures for Prevention: Preventative measures against data breaches include regular security audits and vulnerability assessments, implementing robust access controls and encryption protocols, training employees on cybersecurity best practices, and promptly patching software vulnerabilities.
+
+In conclusion, these events underscore the critical importance of robust cybersecurity practices in safeguarding against evolving threats in the digital landscape. By understanding the nature of cyber attacks, how vulnerabilities are discovered, and implementing effective security measures, organizations and individuals can better protect themselves against cyber threats.
